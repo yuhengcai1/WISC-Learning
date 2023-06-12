@@ -1,2 +1,2 @@
 # WISC-Learning
-University O
+University of Wisconsin Madison Learning Path
